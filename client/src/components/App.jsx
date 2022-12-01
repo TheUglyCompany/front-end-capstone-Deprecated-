@@ -2,6 +2,7 @@ import React from 'react';
 import Ratings from './Ratings';
 import Overview from './Overview';
 import QandA from './QandA';
+import RecommendedItems from './RecommendedItems';
 
 function App() {
   return (
@@ -12,8 +13,9 @@ function App() {
         {new Date().toDateString()}
       </h3>
       <Overview/>
-      <Ratings/>
+      <RecommendedItems/>
       <QandA/>
+      <Ratings/>
     </div>
   );
 }
