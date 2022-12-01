@@ -10,7 +10,7 @@ git checkout master
 git fetch origin 
 ```
 ```
-git reset --hard origin/main
+git reset --hard origin
 ```
 This switches the repo to the main branch, pulls the latest commits and resets the repo's local copy of main to match the latest version.
 
