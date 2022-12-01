@@ -1,4 +1,5 @@
 import React from 'react';
+import Ratings from './Ratings';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
         Date :
         {new Date().toDateString()}
       </h3>
+      <Ratings/>
     </div>
   );
 }
