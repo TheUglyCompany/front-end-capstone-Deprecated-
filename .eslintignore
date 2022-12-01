@@ -1,7 +1,7 @@
-.eslint*
+webpack.config.js
+jest.config.js
 **/node_modules
 **/bower_components
 **/lib
 **/vendor
 **/*.min.js
-**/webpack.config.js

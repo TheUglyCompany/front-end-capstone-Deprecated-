@@ -1,8 +1,15 @@
 import React from 'react';
-// https://github.com/airbnb/javascript/tree/master/react
 
 function App() {
-  return <div>Hello World</div>;
+  return (
+    <div>
+      <h2>Welcome to React App</h2>
+      <h3>
+        Date :
+        {new Date().toDateString()}
+      </h3>
+    </div>
+  );
 }
 
 export default App;
