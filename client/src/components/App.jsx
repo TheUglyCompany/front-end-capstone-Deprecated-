@@ -1,5 +1,6 @@
 import React from 'react';
 import Ratings from './Ratings';
+import Overview from './Overview';
 
 function App() {
   return (
