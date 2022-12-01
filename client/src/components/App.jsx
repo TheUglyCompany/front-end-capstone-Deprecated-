@@ -11,6 +11,7 @@ function App() {
         {new Date().toDateString()}
       </h3>
       <Ratings/>
+      <QandA/>
     </div>
   );
 }
