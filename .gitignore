@@ -1,3 +1,4 @@
 node_modules
-client/dist/main.js
+client/dist/bundle.js
+bundle.js.LICENSE.txt
 .env
