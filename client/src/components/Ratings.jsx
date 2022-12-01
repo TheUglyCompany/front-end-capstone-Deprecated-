@@ -7,3 +7,5 @@ const Ratings = () => {
   </div>
   );
 }
+
+export default Ratings;
