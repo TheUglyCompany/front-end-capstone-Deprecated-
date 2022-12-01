@@ -1,10 +1,10 @@
 import React from 'react';
 
-const RecommendedItems = () => {
-  return(
-  <div>
-    Recommended Items
-  </div>
+function RecommendedItems() {
+  return (
+    <div>
+      Recommended Items
+    </div>
   );
 }
 

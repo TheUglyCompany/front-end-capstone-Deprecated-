@@ -1,10 +1,10 @@
 import React from 'react';
 
-const Ratings = () => {
-  return(
-  <div>
-    Ratings
-  </div>
+function Ratings() {
+  return (
+    <div>
+      Ratings
+    </div>
   );
 }
 

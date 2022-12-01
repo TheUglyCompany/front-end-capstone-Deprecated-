@@ -12,10 +12,10 @@ function App() {
         Date :
         {new Date().toDateString()}
       </h3>
-      <Overview/>
-      <RecommendedItems/>
-      <QandA/>
-      <Ratings/>
+      <Overview />
+      <RecommendedItems />
+      <QandA />
+      <Ratings />
     </div>
   );
 }
